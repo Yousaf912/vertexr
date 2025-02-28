@@ -1,0 +1,66 @@
+.logo span{
+    color: #e9b014;
+}
+.logo{
+    & h2{
+        font-size: 1rem;
+        margin: 0;
+    }
+}
+.combo_value{
+    border-color: #006ac2;
+    border: 1px solid ;
+    font-size: .9rem;
+}
+.option{
+    font-weight: bold;
+}
+.option:hover{
+ color: #006ac2;
+   background-color: #ccc;
+   cursor: pointer;
+}
+.option{
+    font-size: .9rem;
+}
+
+.combo_options{
+    border: 2px solid #006ac2;
+    transform: scale(0);
+    transition: transform 1s ease;
+    position: absolute;
+    width: 100%;
+    transform-origin: top;
+}
+.combo_show{
+    border: 2px solid #006ac2;
+    border: 2px solid #006ac2;
+    transform: scale(1);
+    width: 100%;
+    transition: transform 1s ease;
+    transform-origin: top;
+    position: absolute;
+}
+.logout_btn{
+    display: flex;
+    justify-content: flex-start;
+}
+.combo_value:hover{
+    cursor: pointer;
+}
+.logout_btn:hover{
+    cursor: pointer;
+}
+
+
+/* changes */
+
+.combo{
+    border: 0;
+    outline: 0;
+    width: 200px;
+    max-width: 100px;
+    &:hover{
+        
+    }
+}
