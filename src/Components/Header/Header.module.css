@@ -30,7 +30,7 @@
 }
 
 .combo{
-  font-size: 14px;
+  font-size: 13px;
     outline: 0;
     width: 200px;
     max-width: 100px;
@@ -46,4 +46,5 @@ font-size: 15px;
 
 .scrolled{
     background-color:white;
+    z-index: 1;
 }

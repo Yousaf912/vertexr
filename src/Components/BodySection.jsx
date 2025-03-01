@@ -14,7 +14,7 @@ export default function BodySection() {
   const isAuthenticated = userData && userData.userId && userData.authToken;
   const showmenu = useSelector((state) => state.showmenu.value);
   const navigate = useNavigate();
-  
+
   useEffect(() => {
     if (!isAuthenticated) {
       navigate('/login')
@@ -25,17 +25,21 @@ export default function BodySection() {
   return (
 
     <div className={`d-flex mt-5 `}  >
-      <div className={`${showmenu ?'col-2':'d-none' }`}>
+      <div className={`${showmenu ? 'col-2' : 'd-none'}`}>
         <Menu />
       </div>
-      <div className={` ${showmenu ?'col-10':'col-12'} `}>
-        <TabSection/>
+      <div className={` ${showmenu ? 'col-10' : 'col-12'} `} >
+        <TabSection />
         <GroupOpen name='form'>
-          <FieldInput label={"name"} type='text'/>
-          <FieldInput label={"Father Name"} type='date'/>
-          <FieldInput label={"isActive"} type={true}/>
+          <div className='col-3 mb-2' >
+            <FieldInput classNameInput='' label={"name"} type='text' />
+            <FieldInput label={"Father Name"}  type='date' />
+
+            <FieldInput label={"isActive"}  type={"text"} />
+
+          </div>
         </GroupOpen>
-        <GroupOpen name='form data'>
+        <GroupOpen name='form data '>
           <ReportData />
         </GroupOpen>
       </div>

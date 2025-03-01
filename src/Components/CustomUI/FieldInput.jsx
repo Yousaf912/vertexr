@@ -13,7 +13,7 @@ const FieldInput = ({
     value,
     onChange,
     isChecked,
-    width,
+    width="100%",
     maxWidth,
 }) => {
     if (type === true||false) {
@@ -26,7 +26,7 @@ const FieldInput = ({
     } 
 
     return (
-        <div  className={style.main}>
+        <div  className={`${style.main} mt-1 `}>
             <label htmlFor={id} className={classNameLabel}>{label}</label>
             <div style={{width:`${width}`,maxWidth:`${maxWidth}`}}>
                 <input 

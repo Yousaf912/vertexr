@@ -46,7 +46,7 @@ const dispatch = useDispatch()
   }
 
   return (
-    <div className={`${style.main} ${showmenu? style.open :style.close} shadow-sm  px-3`}>
+    <div className={`${style.main} ${showmenu? style.open :style.close}   px-3`}>
 
       {/* --------------------------- Menu Input ------------------------------ */}
       <div className={`${style.search_inpt} rounded-3 d-flex justify-content-around align-items-center mt-4`}>
