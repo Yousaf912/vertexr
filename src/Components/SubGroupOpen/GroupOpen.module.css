@@ -1,0 +1,13 @@
+.group{
+    font-size: .8rem;
+    color: #1A74FA;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    & p{
+        & button{
+            color: #1A74FA;
+            background: transparent;
+            border: 0;
+        }
+    }
+}

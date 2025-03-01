@@ -20,8 +20,8 @@ const ReportData = () => {
     <div className={style.main}>
         <div className={style.iconBar}>
             {
-                button.map((item) => (
-                    <button>{item}</button>
+                button.map((item,i) => (
+                    <button key={i}>{item}</button>
                 ))
             }
             <p>3123/12321</p>
@@ -40,14 +40,14 @@ const ReportData = () => {
         <table className={style.table}>
                 <thead className={style.thead}>
                     <tr>
-                        {thead.map((item) => (
-                            <td>{item.replace("_"," ")[0].toUpperCase()+item.replace("_"," ").slice(1)}</td>
+                        {thead.map((item,i) => (
+                            <td key={i}>{item.replace("_"," ")[0].toUpperCase()+item.replace("_"," ").slice(1)}</td>
                         ))}
                     </tr>
                 </thead>
                 <tbody className={style.tbody}>
-                    {data.map((item) => (
-                        <tr>
+                    {data.map((item,i) => (
+                        <tr key={i}>
                             <td>{item.Item_Code}</td>
                             <td>{item.Item_Group}</td>
                             <td>{item.Item_Category}</td>

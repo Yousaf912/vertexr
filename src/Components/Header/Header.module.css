@@ -9,10 +9,25 @@
 .logout_btn:hover{
     cursor: pointer;
 }
+
 .mnuicon:hover{
     cursor: pointer;
+    background-color:rgba(9, 55, 180, 0.062) ;
 }
-
+.profile:hover{
+    cursor: pointer;
+    background-color:rgba(9, 55, 180, 0.062) ;
+}
+.logo span{
+    color: #e9b014;
+}
+.logo{
+    
+    & h2{
+        font-size: 1em;
+        margin: 0;
+    }
+}
 
 .combo{
   font-size: 14px;
@@ -20,4 +35,15 @@
     width: 200px;
     max-width: 100px;
    
+}
+
+.profile{
+    font-size: 15px;
+}
+.mnuicon{
+font-size: 15px;
+}
+
+.scrolled{
+    background-color:white;
 }

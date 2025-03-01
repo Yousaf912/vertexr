@@ -1,0 +1,11 @@
+.close {
+    position: fixed;
+    transform: translateX(-100%); /* Move it off-screen to the right */
+    display: none;
+}
+
+.open{
+    position: fixed;
+    height: 100vh;
+    transform: translateX(0);
+}

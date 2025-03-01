@@ -1,0 +1,12 @@
+.list_icon{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(22, 108, 221, 0.842);
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+   
+}
+.tab:hover{
+  cursor: pointer;
+}

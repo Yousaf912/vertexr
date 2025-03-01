@@ -1,9 +1,9 @@
 export const data = [
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -12,10 +12,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -24,10 +24,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -36,10 +36,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -48,10 +48,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -60,10 +60,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -72,10 +72,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -84,10 +84,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -96,10 +96,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -108,10 +108,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -120,10 +120,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -132,10 +132,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -144,10 +144,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -156,10 +156,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -168,10 +168,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -180,10 +180,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -192,10 +192,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -204,10 +204,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -216,10 +216,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -228,10 +228,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",
@@ -240,10 +240,10 @@ export const data = [
         non_:"0 0 0 0"
     },
     {
-        Item_Code:"FGD01700",
-        Item_Group:"Bakhoor WIP",
-        Item_Category:"Bakhoor Mix",
-        Item_Name:"BAKHOOR MUNASIBAT MIX",
+        Item_Code:"#FG01700",
+        Item_Group:"Sagha WIP",
+        Item_Category:"Laptop",
+        Item_Name:"Sagha MUNASIBAT MIX",
         foreign_Name:"TEST",
         UoM:"Pieces",
         Barcode:"FGD02016",

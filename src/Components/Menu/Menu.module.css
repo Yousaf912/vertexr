@@ -1,45 +1,51 @@
-.mainMenu{
+.mainMenu {
     border-radius: 10px;
-    &:hover{
+
+    &:hover {
         background-color: rgba(9, 55, 180, 0.062);
         cursor: pointer;
     }
 }
-*{
+
+* {
     margin: 0;
     padding: 0;
 }
 
-.allmenu{
+.allmenu {
     font-size: 13px;
 }
 
-.main{
-    height: 100vh;
-   
+.close {
+    position: fixed;
+    transform: translateX(-100%); /* Move it off-screen to the right */
 }
 
-.search_inpt input{
+.open{
+    position: fixed;
+    height: 100vh;
+    transform: translateX(0);
+}
+
+.main {
+    transition: transform 1s ease;
+    /* transition: right 1s ease; */
+    
+}
+.search_inpt input {
     border: none;
     outline: none;
-    background:none;
+    background: none;
     font-size: 15px;
     width: 85%;
 }
-.search_inpt{
-   
+
+.search_inpt {
+
     border: 1px solid black;
 }
-.logo span{
-    color: #e9b014;
-}
-.logo{
-    & h2{
-        font-size: 1rem;
-        margin: 0;
-    }
-}
-.subgroup:hover{
+
+.subgroup:hover {
     background-color: rgba(9, 55, 180, 0.062);
     cursor: pointer;
 }
